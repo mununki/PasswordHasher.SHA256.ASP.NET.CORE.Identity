@@ -17,11 +17,11 @@ The salt value after `$`  which was generated using `System.Guid` will be used t
 ### dotnet CLI
 
 ```shell
-$ dotnet add package PasswordHasher.SHA256.ASP.NET.CORE.Identity --version 1.0.0
+$ dotnet add package PasswordHasher.SHA256.ASP.NET.CORE.Identity
 ```
 
 ### NuGet
-https://www.nuget.org/packages/PasswordHasher.SHA256.ASP.NET.CORE.Identity/1.0.0
+https://www.nuget.org/packages/PasswordHasher.SHA256.ASP.NET.CORE.Identity
 
 ## Usage
 
