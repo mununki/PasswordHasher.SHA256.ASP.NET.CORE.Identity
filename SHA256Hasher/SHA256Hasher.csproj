@@ -3,8 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <PackageId>PasswordHasher.SHA256.ASP.NET.CORE.Identity</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>moondaddi</Authors>
+    <RepositoryUrl>https://github.com/mattdamon108/PasswordHasher.SHA256.ASP.NET.CORE.Identity.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
